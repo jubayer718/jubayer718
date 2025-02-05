@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Junior frontend Developer</h2>
+<h2 align="left">Frontend Developer</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a Junior Frontend Developer passionate about building beautiful and interactive web applications. My expertise lies in JavaScript, React.js, and Tailwind CSS, and I love crafting seamless user experiences. Nowadays, I primarily work with React.js to develop modern, dynamic UIs, while also diving into full-stack development. On the backend, I enjoy working with Express.js, Mongoose, and MongoDB to create scalable server-side applications. Always eager to learn and improve, I strive to write clean, efficient, and maintainable code. Let's build something amazing together! 🚀</p>
+<p align="left">I'm a Frontend Developer passionate about building beautiful and interactive web applications. My expertise lies in JavaScript, React.js, and Tailwind CSS, and I love crafting seamless user experiences. Nowadays, I primarily work with React.js to develop modern, dynamic UIs, while also diving into full-stack development. On the backend, I enjoy working with Express.js, Mongoose, and MongoDB to create scalable server-side applications. Always eager to learn and improve, I strive to write clean, efficient, and maintainable code. Let's build something amazing together! 🚀</p>
 
 ###
 
