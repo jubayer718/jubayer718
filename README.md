@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web development<br>📫 How to reach me: https://www.linkedin.com/in/jubayer-ahmed-86224521a/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: My favorite debugging technique? “console.log()”—it never lets me down! 😆</p>
+<p align="left">🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web development<br>📫 How to reach me: https://www.linkedin.com/in/jubayer-ahmed-86224521a/ phone: +8801568692142<br> 😄 Pronouns: He/Him<br>⚡ Fun fact: My favorite debugging technique? “console.log()”—it never lets me down! 😆</p>
 
 ###
 
