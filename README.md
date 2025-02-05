@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="center">Junior frontend Developer</h2>
+<h2 align="left">Junior frontend Developer</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
